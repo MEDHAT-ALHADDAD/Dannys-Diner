@@ -19,7 +19,7 @@ menu
 members
 
 **You can inspect the entity relationship diagram and example data below.**
-![Screen%20Shot%202023-05-21%20at%207.21.52%20AM.png](attachment:Screen%20Shot%202023-05-21%20at%207.21.52%20AM.png)
+![ERD.png](./ERD.png)
 
 ---
 ### Case Study Questions
